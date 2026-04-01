@@ -1,4 +1,4 @@
-# Digital Back Office - Rover Navigation System
+# Rover Navigation System
 
 ## Overview
 
